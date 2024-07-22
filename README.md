@@ -1,29 +1,10 @@
-# smartconnect
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PantallaPrincipal Interactive</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f4f4f4;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <img src="PantallaPrincipal.png" alt="PantallaPrincipal" usemap="#PantallaPrincipal">
-    <map name="PantallaPrincipal">
-        <area shape="rect" coords="614,355,496,119" href="[PantallaPrincipal.png](https://github.com/Saru1989/smartconnect/blob/main/PantallaPrincipal.png?raw=true)" alt="Icon 1">
-    </map>
-</body>
-</html>
+# SmartConnect Project
+
+## Chart 16: Connection Overview
+Below is the Chart 16 that outlines the connection overview for our smart live shop.
+
+[![Chart 16](https://github.com/Saru1989/smartconnect/raw/main/chart16.png)](https://github.com/Saru1989/smartconnect/raw/main/destination.png)
+
+## How to Use
+1. Review the chart to understand the connection flow.
+2. Click on the chart to see the detailed view.
