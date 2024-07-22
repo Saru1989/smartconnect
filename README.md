@@ -23,7 +23,7 @@
 <body>
     <img src="PantallaPrincipal.png" alt="PantallaPrincipal" usemap="#PantallaPrincipal">
     <map name="PantallaPrincipal">
-        <area shape="rect" coords="614,355,496,119" href="PantallaPrincipal.png" alt="Icon 1">
+        <area shape="rect" coords="614,355,496,119" href="[PantallaPrincipal.png](https://github.com/Saru1989/smartconnect/blob/main/PantallaPrincipal.png?raw=true)" alt="Icon 1">
     </map>
 </body>
 </html>
