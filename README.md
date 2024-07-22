@@ -21,11 +21,9 @@
     </style>
 </head>
 <body>
-    <img src="chart16.png" alt="Chart 16" usemap="#chart16-map">
-    <map name="chart16-map">
+    <img src="PantallaPrincipal.png" alt="Chart 16" usemap="#PantallaPrincipal.png">
+    <map name="PantallaPrincipal.png">
         <area shape="rect" coords="614,355,496,119" href="pagina1.html" alt="Icon 1">
-        <area shape="rect" coords="x3,y3,x4,y4" href="page2.html" alt="Icon 2">
-        <area shape="rect" coords="x5,y5,x6,y6" href="page3.html" alt="Icon 3">
     </map>
 </body>
 </html>
